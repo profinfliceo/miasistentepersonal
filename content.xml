@@ -1,0 +1,1357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>202604132017057UZZP6</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026041320170513GWF6</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Mi asistente personal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Antonio Domínguez Peñuela y otros</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>REA de la asignatura de Creación Digital y Pensamiento Computacional para 1º de BACHILLERATO sobre Inteligencia Artificial</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - non commercial 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-nc/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1776104214414</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnxi6u1w-4b23ycm53</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. IA para mejorar nuestra vida</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. IA para mejorar nuestra vida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. IA para mejorar nuestra vida</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1w-4b23ycm53</odePageId>
+      <odeBlockId>20260408165118ANLTLO</odeBlockId>
+      <blockName>1. Inteligencia Artificial está en tu vida aunque no siempre la veas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1w-4b23ycm53</odePageId>
+          <odeBlockId>20260408165118ANLTLO</odeBlockId>
+          <odeIdeviceId>20260406152447TBQQUE</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p><img src="{{context_path}}/content/resources/20260406152447TBQQUE/Inteligencia-artificial-y-consultoria-1200x675_1.jpg" alt="Retor dice " title="Retor dice " width="278" height="157" style="float: left; margin-right: 10px; margin-left: 10px;"></p>
+<p>Vivimos rodeados de <strong>inteligencia artificial.</strong> Aunque muchas veces pensamos en <strong>robots o máquinas futuristas,</strong> la realidad es que usamos inteligencia artificial muchas veces cada día sin darnos cuenta.</p>
+<p>Cuando desbloqueas tu móvil con la cara, cuando una red social te recomienda vídeos, cuando una plataforma te sugiere una serie o cuando el navegador calcula la ruta más rápida, detrás hay sistemas de inteligencia artificial trabajando.</p>
+<p>La inteligencia artificial funciona analizando grandes cantidades de datos y detectando patrones de comportamiento.</p>
+<p><strong>Por ejemplo:</strong></p>
+<p style="padding-left: 40px;">- Si escuchas siempre un tipo de música, una aplicación puede predecir qué canción te gustará después.<br>- Si escribes muchas veces una palabra, el móvil aprende y la propone automáticamente.&nbsp;</p>
+<p style="padding-left: 40px;">&nbsp;- Si haces búsquedas parecidas, internet adapta los resultados.</p>
+<p><strong>La IA no piensa como una persona. No tiene opiniones ni conciencia.</strong></p>
+<p><strong>Lo que hace es: recoger datos; compararlos; buscar regularidades; ofrecer una respuesta probable.</strong><br>Por eso a veces acierta mucho… y otras veces falla.</p>
+<p><strong>Actualmente la inteligencia artificial se usa en:</strong></p>
+<p>Medicina<br>Educación<br>Transporte<br>Comercio digital<br>Entretenimiento</p>
+<p><br><strong>La gran pregunta es:</strong></p>
+<p><strong>¿Hasta qué punto dejamos que una máquina decida por nosotros?</strong></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447TBQQUE","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p><img src=\"{{context_path}}/content/resources/20260406152447TBQQUE/Inteligencia-artificial-y-consultoria-1200x675_1.jpg\" alt=\"Retor dice \" title=\"Retor dice \" width=\"278\" height=\"157\" style=\"float: left; margin-right: 10px; margin-left: 10px;\" /></p>\n<p>Vivimos rodeados de <strong>inteligencia artificial.</strong> Aunque muchas veces pensamos en <strong>robots o máquinas futuristas,</strong> la realidad es que usamos inteligencia artificial muchas veces cada día sin darnos cuenta.</p>\n<p>Cuando desbloqueas tu móvil con la cara, cuando una red social te recomienda vídeos, cuando una plataforma te sugiere una serie o cuando el navegador calcula la ruta más rápida, detrás hay sistemas de inteligencia artificial trabajando.</p>\n<p>La inteligencia artificial funciona analizando grandes cantidades de datos y detectando patrones de comportamiento.</p>\n<p><strong>Por ejemplo:</strong></p>\n<p style=\"padding-left: 40px;\">- Si escuchas siempre un tipo de música, una aplicación puede predecir qué canción te gustará después.<br />- Si escribes muchas veces una palabra, el móvil aprende y la propone automáticamente. </p>\n<p style=\"padding-left: 40px;\"> - Si haces búsquedas parecidas, internet adapta los resultados.</p>\n<p><strong>La IA no piensa como una persona. No tiene opiniones ni conciencia.</strong></p>\n<p><strong>Lo que hace es: recoger datos; compararlos; buscar regularidades; ofrecer una respuesta probable.</strong><br />Por eso a veces acierta mucho… y otras veces falla.</p>\n<p><strong>Actualmente la inteligencia artificial se usa en:</strong></p>\n<p>Medicina<br />Educación<br />Transporte<br />Comercio digital<br />Entretenimiento</p>\n<p><br /><strong>La gran pregunta es:</strong></p>\n<p><strong>¿Hasta qué punto dejamos que una máquina decida por nosotros?</strong></p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1w-4b23ycm53</odePageId>
+      <odeBlockId>20260408165118ITSAVD</odeBlockId>
+      <blockName>2. Inteligencia Artificial no es ciencia ficción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1w-4b23ycm53</odePageId>
+          <odeBlockId>20260408165118ITSAVD</odeBlockId>
+          <odeIdeviceId>20260406152447MLQKII</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>La inteligencia artificial</strong> está presente en muchas acciones cotidianas: cuando una aplicación te recomienda contenido, cuando el móvil reconoce tu rostro o cuando un navegador calcula la ruta más rápida.</p>
+<p>En este vídeo descubrirás de forma rápida cómo la IA está cambiando nuestra manera de estudiar, comunicarnos y tomar decisiones.</p>
+<p>👉 Mientras lo ves, intenta identificar dos ejemplos de inteligencia artificial que tú también utilices cada día y anota una idea que te llame la atención.</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/-NXUk2P2qKc?si=QYgjpfeLMjtEfbzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p>&nbsp;<br><strong>¿Crees que en unos años la inteligencia artificial podrá sustituir algunas profesiones? ¿Cuáles?</strong></p></div></div></section></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447MLQKII","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<div class=\"exe-udlContent exe-udlContent-representation\"><section class=\"exe-udlContent-block\"><div class=\"exe-udlContent-content\"><div class=\"exe-udlContent-content-main\"><p>La IA ya está presente en nuestra <strong>vida diaria</strong> ayudando a organizar fotos en nuestros <strong>teléfonos móviles</strong>, realizar <strong>búsquedas</strong> en Internet o planificar nuestros<strong> viajes y desplazamientos</strong>. Asumen tareas que tradicionalmente necesitaban una inteligencia humana&nbsp; y las resuelven <strong>de forma eficiente y rápida</strong>. Desarrollar una IA no es fácil, requiere de conocimientos avanzados de <strong>matemáticas, programación y ciencia de datos</strong>. A lo largo del reto no se pretende que seas un experto o experta en inteligencia artificial, pero sí que comprendas los <strong>conceptos básicos</strong> que se suelen utilizar y que te permitan profundizar en el futuro en su conocimiento y uso.</p>\n<p>En el siguiente vídeo del canal de \"Derivando\" verás una&nbsp;<strong>panorámica rápida</strong> de IA&nbsp;actualmente. No te preocupes si no entiendes muchos conceptos, los trabajaremos más detenidamente a lo largo del reto.</p>\n<p>A medida que veas el vídeo, <strong>realiza una lista de las palabras o conceptos nuevos</strong> que no conoces para saber más adelante si los vas comprendiendo.&nbsp;</p>\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/_tA5cinv0U8\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe><br>Recuerda que puedes activar los subtítulos si lo necesitas. </p></div></div></section></div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1w-4b23ycm53</odePageId>
+      <odeBlockId>20260408165118ABXJMD</odeBlockId>
+      <blockName>3. ¿Qué vas a aprender en este reto?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1w-4b23ycm53</odePageId>
+          <odeBlockId>20260408165118ABXJMD</odeBlockId>
+          <odeIdeviceId>20260406152447KYXVHL</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p>Profundizarás en los siguientes conocimientos:</p>
+<ul>
+<li>Conocer el concepto de <strong>Inteligencia Artificial.</strong><br></li>
+<li>Valorar la<strong> ética y responsabilidad</strong> social, beneficios y posibles riesgos de la IA.</li>
+<li>Conocer los <strong>agentes inteligentes simples.</strong></li>
+<li>Aprender cómo funcionan las técnicas de <strong>Aprendizaje automático</strong>:
+<ul>
+<li>Reconocimiento de <strong>números.</strong></li>
+<li>Reconocimiento de <strong>texto.</strong></li>
+<li>Reconocimiento de <strong>imágenes.</strong></li>
+<li><strong>Generación de imágenes</strong> basada en técnicas de aprendizaje automático.</li>
+</ul>
+</li>
+</ul>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447KYXVHL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p>Profundizarás en los siguientes conocimientos:</p>\n<ul>\n<li>Conocer el concepto de <strong>Inteligencia Artificial.</strong><br /></li>\n<li>Valorar la<strong> ética y responsabilidad</strong> social, beneficios y posibles riesgos de la IA.</li>\n<li>Conocer los <strong>agentes inteligentes simples.</strong></li>\n<li>Aprender cómo funcionan las técnicas de <strong>Aprendizaje automático</strong>:\n<ul>\n<li>Reconocimiento de <strong>números.</strong></li>\n<li>Reconocimiento de <strong>texto.</strong></li>\n<li>Reconocimiento de <strong>imágenes.</strong></li>\n<li><strong>Generación de imágenes</strong> basada en técnicas de aprendizaje automático.</li>\n</ul>\n</li>\n</ul>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u1y-mdrt0edlo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Asistente personal</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Asistente personal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Asistente personal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1y-mdrt0edlo</odePageId>
+      <odeBlockId>20260408165118JHKQXZ</odeBlockId>
+      <blockName>¿Qué es un asistente personal inteligente?&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1y-mdrt0edlo</odePageId>
+          <odeBlockId>20260408165118JHKQXZ</odeBlockId>
+          <odeIdeviceId>20260406152447QQDRXW</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: left;"><strong>&nbsp;</strong></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 43.6127%;"><span style="font-weight: bolder;"><img src="{{context_path}}/content/resources/20260406152447QQDRXW/Asistentes_personales_conectados_e_interactivos_1.png" width="295" height="196" alt="" style="display: block; margin-left: auto; margin-right: auto;"><br><br></span></td>
+<td style="width: 56.3873%;">
+<p><span style="font-weight: bolder;">Los asistentes personales</span> son una de las aplicaciones más visibles de la inteligencia artificial en nuestra vida diaria.</p>
+<p>Están presentes en&nbsp;<span style="font-weight: bolder;">muchos dispositivos y servicios&nbsp;</span>que usamos cada día, ayudándonos a resolver tareas de forma rápida mediante instrucciones de voz, texto o acciones automatizadas.</p>
+<p><span style="font-weight: bolder;">Hoy en día, un asistente inteligente puede:</span></p>
+<p>- Responder preguntas en lenguaje natural.</p>
+<p>- Organizar recordatorios y alarmas.<br>- Controlar dispositivos del hogar digital.<br>- Recomendar rutas de viaje.<br>- Buscar información en tiempo real.<br>- Reproducir música o contenido multimedia.<br><br>Por ejemplo, asistentes como&nbsp;<span style="font-weight: bolder;">Google Assistant, Siri o Alexa</span>&nbsp;permiten interactuar con tecnología utilizando lenguaje cotidiano.</p>
+<p>También usamos sistemas similares cuando&nbsp;<span style="font-weight: bolder;">navegamos con Google Maps,&nbsp;</span>ya que interpreta nuestra ubicación, calcula rutas y adapta recomendaciones en tiempo real.</p>
+<p><br></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Kcrebr12vUQ?si=NdZPQZyJNBekyFg2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447QQDRXW","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: left;\"><strong> </strong></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 43.6127%;\"><span style=\"font-weight: bolder;\"><img src=\"{{context_path}}/content/resources/20260406152447QQDRXW/Asistentes_personales_conectados_e_interactivos_1.png\" width=\"295\" height=\"196\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /><br /><br /></span></td>\n<td style=\"width: 56.3873%;\">\n<p><span style=\"font-weight: bolder;\">Los asistentes personales</span> son una de las aplicaciones más visibles de la inteligencia artificial en nuestra vida diaria.</p>\n<p>Están presentes en <span style=\"font-weight: bolder;\">muchos dispositivos y servicios </span>que usamos cada día, ayudándonos a resolver tareas de forma rápida mediante instrucciones de voz, texto o acciones automatizadas.</p>\n<p><span style=\"font-weight: bolder;\">Hoy en día, un asistente inteligente puede:</span></p>\n<p>- Responder preguntas en lenguaje natural.</p>\n<p>- Organizar recordatorios y alarmas.<br />- Controlar dispositivos del hogar digital.<br />- Recomendar rutas de viaje.<br />- Buscar información en tiempo real.<br />- Reproducir música o contenido multimedia.<br /><br />Por ejemplo, asistentes como <span style=\"font-weight: bolder;\">Google Assistant, Siri o Alexa</span> permiten interactuar con tecnología utilizando lenguaje cotidiano.</p>\n<p>También usamos sistemas similares cuando <span style=\"font-weight: bolder;\">navegamos con Google Maps, </span>ya que interpreta nuestra ubicación, calcula rutas y adapta recomendaciones en tiempo real.</p>\n<p><br /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: left;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Kcrebr12vUQ?si=NdZPQZyJNBekyFg2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1y-mdrt0edlo</odePageId>
+      <odeBlockId>20260408165118HDKYSS</odeBlockId>
+      <blockName>Detectives de IA: ¿Dónde está escondida?&amp;nbsp;</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1y-mdrt0edlo</odePageId>
+          <odeBlockId>20260408165118HDKYSS</odeBlockId>
+          <odeIdeviceId>20260406152447UDFECS</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p style="text-align: justify;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cada día utilizamos muchas <strong>aplicaciones digitales</strong> sin pensar en toda la tecnología que funciona detrás de ellas. Plataformas de vídeo, música, mapas o redes sociales usan inteligencia artificial para analizar nuestros hábitos, anticipar decisiones y ofrecernos contenidos personalizados.</p>
+<p style="text-align: justify;">En esta actividad vas a convertirte en <strong>detective digital:</strong> tendrás que observar aplicaciones que utilizas habitualmente y descubrir qué función realiza la inteligencia artificial en cada una de ellas y qué tipo de datos necesita para funcionar.</p>
+<p style="text-align: justify;">No se trata solo de decir si una aplicación usa IA, sino de<strong> comprender cómo aprende del comportamiento de las personas y qué información recoge</strong> para ofrecer resultados cada vez más ajustados.</p>
+<p>A partir de algunos ejemplos ya completados, tendrás que i<strong>nvestigar nuevos casos y completar la tabla </strong>con tus propias observaciones.</p>
+<p><img src="{{context_path}}/content/resources/20260406152447UDFECS/Detectives_de_IA_en_accin.png" width="1024" height="1536" alt=""></p>
+<p>👉<strong> Al terminar, reflexiona: ¿Qué aplicación crees que sabe más sobre ti?</strong></p>
+<p><strong></strong><br></p></div></div></section></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447UDFECS","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<div class=\"exe-udlContent exe-udlContent-expression\"><section class=\"exe-udlContent-block\"><div class=\"exe-udlContent-content\"><div class=\"exe-udlContent-content-main\"><p>En esta actividad vamos a recordar cómo se puede realizar un asistente personal con programación, en este caso con&nbsp;<strong>Scratch, </strong>una aplicación que supongo ya conoces.</p>\n<p style=\"text-align: left;\"><a href=\"https://scratch.mit.edu/\" target=\"_blank\" title=\"Accede a Scratch para realizar esta actividad.\" rel=\"noopener\">Accede a Scratch</a> para realizar esta actividad siguiendo las instrucciones del vídeo</p>\n<p style=\"text-align: left;\">En el siguiente vídeo se explica cómo realizar <strong>un asistente con programación</strong>, además nos servirá de <strong>repaso de Scratch</strong> pues después lo necesitaremos para nuestro asistente con IA.</p>\n<p style=\"text-align: center;\"><iframe src=\"https://www.youtube.com/embed/BtAyLnZxvbs\" title=\"YouTube video player\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\" width=\"560\" height=\"315\" frameborder=\"0\"></iframe></p>\n<p style=\"text-align: center;\">Recuerda que puedes activar los subtítulos si lo necesitas.<br>En el siguiente <a href=\"{{context_path}}/20260406152447UDFECS/RECURSOS-Asistente-con-Scratch.zip\" target=\"_blank\" title=\"Enlace para descargar los recursos necesarios\" rel=\"noopener\">enlace puedes descargar los recursos</a> que necesitas descritos en el vídeo.<br><br></p></div></div></section></div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u1t-jmne08d5i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Mi asistente personal</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mi asistente personal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Mi asistente personal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1t-jmne08d5i</odePageId>
+      <odeBlockId>20260408165118DNOTMB</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1t-jmne08d5i</odePageId>
+          <odeBlockId>20260408165118DNOTMB</odeBlockId>
+          <odeIdeviceId>20260406152447HYUFQC</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/20260406152447HYUFQC/CREACIN_DIGITAL_Y_PENSAMIENTO_COMPUTACIONAL.png" width="1366" height="768" alt=""></p></div></div></section></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447HYUFQC","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<div class=\"exe-udlContent exe-udlContent-representation\"><section class=\"exe-udlContent-block\"><div class=\"exe-udlContent-content\"><div class=\"exe-udlContent-content-main\"><p style=\"text-align: center;\"><img src=\"{{context_path}}/20260406152447HYUFQC/Portada.jpg\" alt=\"Portada  Creación Digital y Pensamiento Computacional para 1º de BACHILLERATO\" width=\"750\" height=\"375\" title=\"Portada\"></p></div></div></section></div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u1y-jjspju3gw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Una máquina que aprende</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Una máquina que aprende</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Una máquina que aprende</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1y-jjspju3gw</odePageId>
+      <odeBlockId>20260408165118HUDUWL</odeBlockId>
+      <blockName>Aprendizaje automático: enseñar a una máquina</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1y-jjspju3gw</odePageId>
+          <odeBlockId>20260408165118HUDUWL</odeBlockId>
+          <odeIdeviceId>20260406152447KZQRZG</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><div class="exe-text">
+<p style="text-align: justify;"><img src="{{context_path}}/content/resources/20260406152447KZQRZG/Aprendizaje_automtico_y_prediccin_visual.png" width="1366" height="911" alt="">La <strong>definición clásica</strong> de Machine Learning (ML), o <strong>Aprendizaje Automático</strong> como se conoce en español, dice que "es un conjunto de algoritmos y técnicas con las que se construyen modelos de predicción y clasificación a partir de conjuntos de datos conocidos".</p>
+<p style="text-align: justify;">Esencialmente, el aprendizaje automático es un subcampo de la inteligencia artificial que ofrece a las computadoras la capacidad de<strong> aprender por sí mismas</strong>.&nbsp;</p>
+<p style="text-align: justify;">Vamos a realizar un <strong>experimento</strong>&nbsp;que te servirá para comprender los <strong>principios básicos</strong> del Machine Learning explorando sus elementos principales.&nbsp;</p>
+<p style="text-align: center;"><strong><span style="font-size: 14pt;">¿Qué es el aprendizaje automático?</span></strong></p>
+<p style="text-align: left;"><strong>- El aprendizaje automático</strong> es una parte de la inteligencia artificial que permite que una máquina aprenda a partir de ejemplos.</p>
+<p>- En lugar de programar todas las respuestas paso a paso, se le proporcionan muchos datos para que <strong>detecte patrones y pueda generar una respuesta probable.</strong></p>
+<p>Por ejemplo, si una IA recibe muchas imágenes de diferente tipo, analiza características como:<strong> forma,</strong><br><strong>color, tamaño y contorno.</strong><br>Después compara esos datos y decide a qué categoría pertenece cada nueva imagen.</p>
+<p>&nbsp; &nbsp; <img src="{{context_path}}/content/resources/20260406152447KZQRZG/Aprendizaje_automtico_en_accin.png" width="1366" height="911" alt=""><br></p>
+</div><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447KZQRZG","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"\n<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/20260406152447KZQRZG/Aprendizaje_automtico_y_prediccin_visual.png\" width=\"1366\" height=\"911\" alt=\"\" />La <strong>definición clásica</strong> de Machine Learning (ML), o <strong>Aprendizaje Automático</strong> como se conoce en español, dice que \"es un conjunto de algoritmos y técnicas con las que se construyen modelos de predicción y clasificación a partir de conjuntos de datos conocidos\".</p>\n<p style=\"text-align: justify;\">Esencialmente, el aprendizaje automático es un subcampo de la inteligencia artificial que ofrece a las computadoras la capacidad de<strong> aprender por sí mismas</strong>. </p>\n<p style=\"text-align: justify;\">Vamos a realizar un <strong>experimento</strong> que te servirá para comprender los <strong>principios básicos</strong> del Machine Learning explorando sus elementos principales. </p>\n<p style=\"text-align: center;\"><strong><span style=\"font-size: 14pt;\">¿Qué es el aprendizaje automático?</span></strong></p>\n<p style=\"text-align: left;\"><strong>- El aprendizaje automático</strong> es una parte de la inteligencia artificial que permite que una máquina aprenda a partir de ejemplos.</p>\n<p>- En lugar de programar todas las respuestas paso a paso, se le proporcionan muchos datos para que <strong>detecte patrones y pueda generar una respuesta probable.</strong></p>\n<p>Por ejemplo, si una IA recibe muchas imágenes de diferente tipo, analiza características como:<strong> forma,</strong><br /><strong>color, tamaño y contorno.</strong><br />Después compara esos datos y decide a qué categoría pertenece cada nueva imagen.</p>\n<p>    <img src=\"{{context_path}}/content/resources/20260406152447KZQRZG/Aprendizaje_automtico_en_accin.png\" width=\"1366\" height=\"911\" alt=\"\" /><br /></p>\n","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u1z-g2i3b20ba</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Diferencia entre IA, Machine learning y Deep learning</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Diferencia entre IA, Machine learning y Deep learning</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Diferencia entre IA, Machine learning y Deep learning</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Diferencia entre IA, Machine learning y Deep learning</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u1z-g2i3b20ba</odePageId>
+      <odeBlockId>20260408165118CUWRVC</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>46</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u1z-g2i3b20ba</odePageId>
+          <odeBlockId>20260408165118CUWRVC</odeBlockId>
+          <odeIdeviceId>20260406152447JGCFDZ</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><img src="{{context_path}}/content/resources/20260406152447JGCFDZ/Inteligencia_artificial_y_sus_conexiones.png" width="1366" height="911" alt=""><br></p>
+<p>Para poder realizar con éxito el<strong> reto final</strong> debemos aprender algunas cosas sobre la <strong>inteligencia artificial.</strong></p>
+<p style="text-align: justify;">La inteligencia artificial es una rama de la informática que se encarga del estudio y desarrollo de sistemas que puedan realizar tareas que requieren inteligencia humana, como el <strong>reconocimiento de patrones, el aprendizaje automático y la toma de decisiones.</strong></p>
+<p style="text-align: justify;">La inteligencia artificial se basa en la creación de <strong>modelos matemático</strong>s y computacionales de la mente humana, con el objetivo de replicar dichos procesos en máquinas. Estos modelos se utilizan para <strong>resolver problemas complejos</strong> mediante el cálculo de posibles soluciones y la selección de la mejor opción.</p>
+<p>Vamos a ver algunos <strong>conceptos nuevos</strong> pero, no te preocupes, en la actividad anterior ya has trabajado con muchos de ellos, pero eso sí, presta mucha atención porque todo esto será<strong> fundamental para conseguir el reto.</strong></p>
+<p style="text-align: justify;"><strong><img src="{{context_path}}/content/resources/20260406152447JGCFDZ/Tecnologas_de_IA_y_aprendizaje_automtico.png" width="584" height="389" alt="" style="display: block; margin-left: auto; margin-right: auto;">La inteligencia artificial (IA)</strong> es el concepto general que engloba todos los sistemas capaces de realizar tareas que normalmente requieren inteligencia humana, como responder preguntas, reconocer imágenes, traducir textos o tomar decisiones. Su objetivo es que una máquina pueda resolver problemas de manera inteligente a partir de la información que recibe.</p>
+<p style="text-align: justify;"><strong>El machine learning o aprendizaje automático </strong>es una parte de la inteligencia artificial en la que la máquina aprende a partir de ejemplos y datos. En lugar de recibir todas las instrucciones programadas, analiza patrones y utiliza esa información para clasificar, predecir o recomendar resultados. Por ejemplo, una plataforma aprende qué vídeos te gustan observando tus elecciones anteriores.</p>
+<p style="text-align: justify;"><strong>El deep learning o aprendizaje profundo</strong> es una forma más avanzada de machine learning que utiliza redes neuronales artificiales inspiradas en el cerebro humano. Permite analizar grandes cantidades de información en varios niveles, por eso se utiliza en tareas complejas como el reconocimiento facial, la conducción autónoma o la generación de imágenes y lenguaje.</p>
+<p style="text-align: center;"><span style="color: #2dc26b;"><strong>La inteligencia artificial es el conjunto; el machine learning aprende con datos; el deep learning aprende en profundidad.</strong></span></p></div></div></section></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260406152447JGCFDZ","textInfoDurationInput":"","textInfoParticipantsInput":"","textInfoDurationTextInput":"","textInfoParticipantsTextInput":"","textTextarea":"<div class=\"exe-udlContent exe-udlContent-engagement\"><section class=\"exe-udlContent-block\"><div class=\"exe-udlContent-content\"><div class=\"exe-udlContent-content-main\"><p><img src=\"files/tmp/2026/04/06/20260406152446VBUBGQ/20260406152447JGCFDZ/gif_animado_narrador_juvenil.gif\" alt=\"Rétor dice\" style=\"float: left; margin-right: 15px; margin-left: 15px;\" title=\"Rétor dice\" width=\"250\" height=\"250\"></p>\n<p>Para poder realizar con éxito el<strong> reto final</strong> debemos aprender algunas cosas sobre la <strong>inteligencia artificial.</strong></p>\n<p style=\"text-align: justify;\">La inteligencia artificial es una rama de la informática que se encarga del estudio y desarrollo de sistemas que puedan realizar tareas que requieren inteligencia humana, como el <strong>reconocimiento de patrones, el aprendizaje automático y la toma de decisiones.</strong></p>\n<p style=\"text-align: justify;\">La inteligencia artificial se basa en la creación de <strong>modelos matemático</strong>s y computacionales de la mente humana, con el objetivo de replicar dichos procesos en máquinas. Estos modelos se utilizan para <strong>resolver problemas complejos</strong> mediante el cálculo de posibles soluciones y la selección de la mejor opción.</p>\n<p>Vamos a ver algunos <strong>conceptos nuevos</strong> pero, no te preocupes, en la actividad anterior ya has trabajado con muchos de ellos, pero eso sí, presta mucha atención porque todo esto será<strong> fundamental para conseguir el reto.</strong></p>\n<ol style=\"overflow: hidden;\">\n<li style=\"text-align: justify;\"><a href=\"exe-node:page-mnxi6u20-aipgqtnc6\" title=\"Enlace a lenguajes de programación.\">Aprendizaje automático.</a></li>\n<li style=\"text-align: justify;\"><a href=\"exe-node:page-mnxi6u20-pwate7vum\" title=\"Enlace al apartado: Reconocimiento de texto. \">Reconocimiento de texto</a></li>\n<li style=\"text-align: justify;\"><a href=\"exe-node:page-mnxi6u20-7icjj5nyv\" title=\"Enlace al apartado: Reconocimiento de imágenes. \">Reconocimiento de imágenes.</a></li>\n<li style=\"text-align: justify;\">Reconocimiento de números.</li>\n</ol></div></div></section></div>","textFeedbackInput":"","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u20-aipgqtnc6</odePageId>
+  <odeParentPageId>page-mnxi6u1z-g2i3b20ba</odeParentPageId>
+  <pageName>4.1. Reconocimiento de imágenes</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. Reconocimiento de imágenes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.1. Reconocimiento de imágenes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.1. Reconocimiento de imágenes</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u20-aipgqtnc6</odePageId>
+      <odeBlockId>20260408165118HJEJVG</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u20-aipgqtnc6</odePageId>
+          <odeBlockId>20260408165118HJEJVG</odeBlockId>
+          <odeIdeviceId>20260407204706426U2K</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>&nbsp; &nbsp;<img src="{{context_path}}/content/resources/20260407204706426U2K/Reconocimiento_de_planta_con_smartphone_2.png" width="253" height="380" alt="" style="float: left;"></p>
+<p style="text-align: justify;">&nbsp; &nbsp; <strong>&nbsp;El reconocimiento de imágenes </strong>es una técnica de inteligencia artificial que permite a un sistema identificar objetos, personas, lugares o elementos visuales a partir de una fotografía o de una imagen captada por una cámara.</p>
+<p style="text-align: justify;">Para hacerlo, la inteligencia artificial analiza diferentes características visuales, como: <strong>formas, colores, contornos,&nbsp; tamaños y posiciones.</strong><br>Después <strong>compara esa información</strong> con miles o millones de ejemplos almacenados previamente en su entrenamiento.</p>
+<p style="text-align: justify;"><strong>Por ejemplo, </strong>si enfocamos una planta con una aplicación como Google Lens, el sistema analiza la imagen y la compara con otras similares hasta ofrecer una posible identificación.</p>
+<p style="text-align: left;"><strong></strong></p>
+<p style="text-align: left;"><strong>Este tipo de tecnología se utiliza actualmente en muchas situaciones cotidianas:</strong></p>
+<p style="text-align: left;">- Desbloqueo facial en teléfonos móviles.<br>- Detección de señales en vehículos inteligentes.<br>- Identificación de productos en tiendas digitales.<br>- Reconocimiento de objetos mediante cámara.</p>
+<p style="text-align: left;"><br>👉 <strong>El reconocimiento de imágenes no significa que la máquina “entienda” lo que ve, sino que calcula cuál es la coincidencia más probable a partir de los datos con los que ha sido entrenada.&nbsp;</strong></p>
+<p style="text-align: left;"><br></p>
+<p style="text-align: left;"><strong></strong><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407204706426U2K","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>   <img src=\"{{context_path}}/content/resources/20260407204706426U2K/Reconocimiento_de_planta_con_smartphone_2.png\" width=\"253\" height=\"380\" alt=\"\" style=\"float: left;\" /></p>\n<p style=\"text-align: justify;\">    <strong> El reconocimiento de imágenes </strong>es una técnica de inteligencia artificial que permite a un sistema identificar objetos, personas, lugares o elementos visuales a partir de una fotografía o de una imagen captada por una cámara.</p>\n<p style=\"text-align: justify;\">Para hacerlo, la inteligencia artificial analiza diferentes características visuales, como: <strong>formas, colores, contornos,  tamaños y posiciones.</strong><br />Después <strong>compara esa información</strong> con miles o millones de ejemplos almacenados previamente en su entrenamiento.</p>\n<p style=\"text-align: justify;\"><strong>Por ejemplo, </strong>si enfocamos una planta con una aplicación como Google Lens, el sistema analiza la imagen y la compara con otras similares hasta ofrecer una posible identificación.</p>\n<p style=\"text-align: left;\"><strong></strong></p>\n<p style=\"text-align: left;\"><strong>Este tipo de tecnología se utiliza actualmente en muchas situaciones cotidianas:</strong></p>\n<p style=\"text-align: left;\">- Desbloqueo facial en teléfonos móviles.<br />- Detección de señales en vehículos inteligentes.<br />- Identificación de productos en tiendas digitales.<br />- Reconocimiento de objetos mediante cámara.</p>\n<p style=\"text-align: left;\"><br />👉 <strong>El reconocimiento de imágenes no significa que la máquina “entienda” lo que ve, sino que calcula cuál es la coincidencia más probable a partir de los datos con los que ha sido entrenada. </strong></p>\n<p style=\"text-align: left;\"><br /></p>\n<p style=\"text-align: left;\"><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u20-pwate7vum</odePageId>
+  <odeParentPageId>page-mnxi6u1z-g2i3b20ba</odeParentPageId>
+  <pageName>4.2. Reconocimiento de texto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Reconocimiento de texto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.2. Reconocimiento de texto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u20-pwate7vum</odePageId>
+      <odeBlockId>20260408165118RQFCUL</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u20-pwate7vum</odePageId>
+          <odeBlockId>20260408165118RQFCUL</odeBlockId>
+          <odeIdeviceId>20260407205654048S5S</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><img src="{{context_path}}/content/resources/20260407205654048S5S/Tecnologa_OCR_en_accin_1.png" width="263" height="395" alt="" style="float: left;"></p>
+<p style="text-align: justify;">&nbsp; &nbsp; &nbsp;<strong>El reconocimiento de texto </strong>es una técnica de inteligencia artificial que permite identificar letras, palabras y números presentes en una imagen o en un documento escaneado y transformarlos en información digital editable.</p>
+<p style="text-align: justify;">Este proceso se conoce como<strong> OCR (Optical Character Recognition o reconocimiento óptico de caracteres).</strong></p>
+<p style="text-align: justify;">La inteligencia artificial <strong>analiza la imagen, detecta cada carácter y lo convierte en texto que puede copiarse, editarse o procesarse digitalmente.</strong></p>
+<p style="text-align: justify;"><strong>Por ejemplo,</strong> una aplicación puede fotografiar una página de un libro y convertir automáticamente su contenido en texto digital.</p>
+<p></p>
+<p></p>
+<p>Herramientas como <strong>Google Lens </strong>utilizan esta tecnología para:</p>
+<p>- Leer textos impresos.<br>- Copiar contenido desde una imagen.<br>- Traducir carteles o documentos.<br>- Facilitar la accesibilidad en dispositivos móviles.</p>
+<p><br><strong>Esta tecnología se utiliza actualmente en muchos ámbitos:</strong></p>
+<p>- Digitalización de documentos;<br>- Lectores automáticos de matrículas;<br>- Traducción instantánea;<br>- Accesibilidad para personas con dificultades visuales.</p>
+<p><br>👉<strong> La precisión del reconocimiento depende de factores como la iluminación, la calidad de la imagen, el enfoque y el tipo de letra.</strong></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407205654048S5S","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20260407205654048S5S/Tecnologa_OCR_en_accin_1.png\" width=\"263\" height=\"395\" alt=\"\" style=\"float: left;\" /></p>\n<p style=\"text-align: justify;\">     <strong>El reconocimiento de texto </strong>es una técnica de inteligencia artificial que permite identificar letras, palabras y números presentes en una imagen o en un documento escaneado y transformarlos en información digital editable.</p>\n<p style=\"text-align: justify;\">Este proceso se conoce como<strong> OCR (Optical Character Recognition o reconocimiento óptico de caracteres).</strong></p>\n<p style=\"text-align: justify;\">La inteligencia artificial <strong>analiza la imagen, detecta cada carácter y lo convierte en texto que puede copiarse, editarse o procesarse digitalmente.</strong></p>\n<p style=\"text-align: justify;\"><strong>Por ejemplo,</strong> una aplicación puede fotografiar una página de un libro y convertir automáticamente su contenido en texto digital.</p>\n<p></p>\n<p></p>\n<p>Herramientas como <strong>Google Lens </strong>utilizan esta tecnología para:</p>\n<p>- Leer textos impresos.<br />- Copiar contenido desde una imagen.<br />- Traducir carteles o documentos.<br />- Facilitar la accesibilidad en dispositivos móviles.</p>\n<p><br /><strong>Esta tecnología se utiliza actualmente en muchos ámbitos:</strong></p>\n<p>- Digitalización de documentos;<br />- Lectores automáticos de matrículas;<br />- Traducción instantánea;<br />- Accesibilidad para personas con dificultades visuales.</p>\n<p><br />👉<strong> La precisión del reconocimiento depende de factores como la iluminación, la calidad de la imagen, el enfoque y el tipo de letra.</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u20-7icjj5nyv</odePageId>
+  <odeParentPageId>page-mnxi6u1z-g2i3b20ba</odeParentPageId>
+  <pageName>4.3. Modelos numéricos</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3. Modelos numéricos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4.3. Modelos numéricos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4.3. Modelos numéricos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u20-7icjj5nyv</odePageId>
+      <odeBlockId>20260408165118XWLXLF</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u20-7icjj5nyv</odePageId>
+          <odeBlockId>20260408165118XWLXLF</odeBlockId>
+          <odeIdeviceId>20260407210444084HPT</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><img src="{{context_path}}/content/resources/20260407210444084HPT/Interaccin_con_modelos_numricos_en_tablet.png" width="284" height="427" alt="" style="float: left;"></p>
+<p style="text-align: justify;"><strong>&nbsp; &nbsp; &nbsp;Los modelos numéricos </strong>son sistemas de inteligencia artificial que trabajan con datos cuantitativos para analizar información, detectar patrones y realizar predicciones.</p>
+<p style="text-align: justify;"><strong>Su funcionamiento</strong> se basa en el estudio de grandes cantidades de números y en la búsqueda de relaciones entre ellos para anticipar resultados probables.</p>
+<p style="text-align: justify;"><strong>Por ejemplo,</strong> una inteligencia artificial puede analizar datos de tráfico, temperaturas o hábitos de consumo para prever qué puede ocurrir en una situación determinada.</p>
+<p style="text-align: justify;"><strong>Este tipo de modelos se utiliza en muchas aplicaciones cotidianas:</strong></p>
+<p style="text-align: justify;">- Predicción meteorológica.<br>- Cálculo de rutas más rápidas en navegadores.<br>- Recomendaciones de compra en plataformas digitales.<br>- Análisis de resultados deportivos o económicos.<br></p>
+<p style="text-align: justify;">Cuando utilizamos un navegador y este indica cuál es el camino más rápido, el sistema está analizando continuamente datos numéricos como:<strong> </strong>d<strong>istancia, velocidad media, nivel de tráfico y tiempo estimado.</strong><br>A partir de esos datos, calcula la opción más probable y propone una ruta.</p>
+<p><strong>👉 Un modelo numérico no ofrece una certeza absoluta: genera una predicción basada en probabilidades y en los datos disponibles en ese momento.</strong></p>
+<p style="text-align: center;"><strong>&nbsp;<span style="color: #169179;">¡PONTE A PRUEBA CON LAS SIGUIENTES ACTIVIDADES!</span></strong><br></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407210444084HPT","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20260407210444084HPT/Interaccin_con_modelos_numricos_en_tablet.png\" width=\"284\" height=\"427\" alt=\"\" style=\"float: left;\" /></p>\n<p style=\"text-align: justify;\"><strong>     Los modelos numéricos </strong>son sistemas de inteligencia artificial que trabajan con datos cuantitativos para analizar información, detectar patrones y realizar predicciones.</p>\n<p style=\"text-align: justify;\"><strong>Su funcionamiento</strong> se basa en el estudio de grandes cantidades de números y en la búsqueda de relaciones entre ellos para anticipar resultados probables.</p>\n<p style=\"text-align: justify;\"><strong>Por ejemplo,</strong> una inteligencia artificial puede analizar datos de tráfico, temperaturas o hábitos de consumo para prever qué puede ocurrir en una situación determinada.</p>\n<p style=\"text-align: justify;\"><strong>Este tipo de modelos se utiliza en muchas aplicaciones cotidianas:</strong></p>\n<p style=\"text-align: justify;\">- Predicción meteorológica.<br />- Cálculo de rutas más rápidas en navegadores.<br />- Recomendaciones de compra en plataformas digitales.<br />- Análisis de resultados deportivos o económicos.<br /></p>\n<p style=\"text-align: justify;\">Cuando utilizamos un navegador y este indica cuál es el camino más rápido, el sistema está analizando continuamente datos numéricos como:<strong> </strong>d<strong>istancia, velocidad media, nivel de tráfico y tiempo estimado.</strong><br />A partir de esos datos, calcula la opción más probable y propone una ruta.</p>\n<p><strong>👉 Un modelo numérico no ofrece una certeza absoluta: genera una predicción basada en probabilidades y en los datos disponibles en ese momento.</strong></p>\n<p style=\"text-align: center;\"><strong> <span style=\"color: #169179;\">¡PONTE A PRUEBA CON LAS SIGUIENTES ACTIVIDADES!</span></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u21-9p6wzqrj2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. La importancia de escribir un buen Prompt</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. La importancia de escribir un buen Prompt</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. La importancia de escribir un buen Prompt</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. La importancia de escribir un buen Prompt</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u21-9p6wzqrj2</odePageId>
+      <odeBlockId>20260408165118CUSOKT</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u21-9p6wzqrj2</odePageId>
+          <odeBlockId>20260408165118CUSOKT</odeBlockId>
+          <odeIdeviceId>20260407213808683TZO</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: justify;"><img src="{{context_path}}/content/resources/20260407213808683TZO/Estudiantes_y_tecnologa_en_el_aula.png" width="342" height="228" alt="" style="float: left;">Actualmente&nbsp;<span style="font-weight: bolder;">muchas herramientas de inteligencia artificial pueden ayudarnos a buscar información,</span>&nbsp;redactar textos, generar imágenes o resolver dudas. Sin embargo, la calidad de la respuesta depende en gran parte de cómo formulamos la instrucción.</p>
+<p style="text-align: justify;"><strong>El prompt</strong> es el mensaje que escribimos para indicar a una inteligencia artificial qué queremos obtener.</p>
+<p style="text-align: justify;"><strong>Un prompt poco claro</strong> suele generar respuestas generales o poco útiles. En cambio, <strong>un prompt bien redactado</strong> permite obtener resultados más precisos, adaptados y útiles.</p>
+<p style="text-align: justify;"><iframe width="560" height="315" src="https://www.youtube.com/embed/C73JIUeOoLw?si=sVtOvj9b3UkMrqaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><strong>¿Qué debe tener un buen prompt?</strong><br>Para que una inteligencia artificial responda mejor, es recomendable indicar:</p>
+<p>- Qué queremos exactamente.&nbsp;<br>- Para quién va dirigida la respuesta.<br>- Extensión aproximada.<br>- Formato deseado.<br>- Nivel de dificultad.</p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>¿Por qué es importante aprender a hacerlo bien?</strong></span><br>Actualmente utilizamos inteligencia artificial en muchos <strong>contextos académicos y profesionales.</strong></p>
+<p><strong>Saber escribir buenos prompts ayuda a:</strong></p>
+<p>- Obtener mejores respuestas.<br>- Ahorrar tiempo.<br>- Comparar resultados.<br>- Usar la IA de forma crítica.</p>
+<p><strong>👉 La inteligencia artificial responde mejor cuando sabe exactamente qué se le está pidiendo.</strong></p>
+<p style="text-align: center;"><span style="color: #169179; font-size: 14pt;"><strong>¡PONTE A PRUEBA CON LA ÚLTIMA ACTIVIDAD!</strong></span></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407213808683TZO","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><img src=\"{{context_path}}/content/resources/20260407213808683TZO/Estudiantes_y_tecnologa_en_el_aula.png\" width=\"342\" height=\"228\" alt=\"\" style=\"float: left;\" />Actualmente <span style=\"font-weight: bolder;\">muchas herramientas de inteligencia artificial pueden ayudarnos a buscar información,</span> redactar textos, generar imágenes o resolver dudas. Sin embargo, la calidad de la respuesta depende en gran parte de cómo formulamos la instrucción.</p>\n<p style=\"text-align: justify;\"><strong>El prompt</strong> es el mensaje que escribimos para indicar a una inteligencia artificial qué queremos obtener.</p>\n<p style=\"text-align: justify;\"><strong>Un prompt poco claro</strong> suele generar respuestas generales o poco útiles. En cambio, <strong>un prompt bien redactado</strong> permite obtener resultados más precisos, adaptados y útiles.</p>\n<p style=\"text-align: justify;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/C73JIUeOoLw?si=sVtOvj9b3UkMrqaX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: center;\"><strong>¿Qué debe tener un buen prompt?</strong><br />Para que una inteligencia artificial responda mejor, es recomendable indicar:</p>\n<p>- Qué queremos exactamente. <br />- Para quién va dirigida la respuesta.<br />- Extensión aproximada.<br />- Formato deseado.<br />- Nivel de dificultad.</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14pt;\"><strong>¿Por qué es importante aprender a hacerlo bien?</strong></span><br />Actualmente utilizamos inteligencia artificial en muchos <strong>contextos académicos y profesionales.</strong></p>\n<p><strong>Saber escribir buenos prompts ayuda a:</strong></p>\n<p>- Obtener mejores respuestas.<br />- Ahorrar tiempo.<br />- Comparar resultados.<br />- Usar la IA de forma crítica.</p>\n<p><strong>👉 La inteligencia artificial responde mejor cuando sabe exactamente qué se le está pidiendo.</strong></p>\n<p style=\"text-align: center;\"><span style=\"color: #169179; font-size: 14pt;\"><strong>¡PONTE A PRUEBA CON LA ÚLTIMA ACTIVIDAD!</strong></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnxi6u21-szly160r2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Conclusiones</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Conclusiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Conclusiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Conclusiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnxi6u21-szly160r2</odePageId>
+      <odeBlockId>20260408165118TSBHTW</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnxi6u21-szly160r2</odePageId>
+          <odeBlockId>20260408165118TSBHTW</odeBlockId>
+          <odeIdeviceId>2026040722061301182L</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>A&nbsp;<img src="{{context_path}}/content/resources/2026040722061301182L/pngtree-robot-teacher-engaging-with-kids-in-classroom-png-image_20819003.png" width="267" height="267" alt="" style="float: left;">lo largo de este recorrido hemos comprobado que la i<strong>nteligencia artificial </strong>forma parte de muchas acciones cotidianas y que está presente en herramientas que utilizamos con frecuencia, muchas veces sin ser plenamente conscientes de ello.</p>
+<p style="text-align: justify;">Hemos analizado cómo <strong>una máquina puede aprender a partir de ejemplos mediante el machine learning,</strong> cómo los sistemas más avanzados utilizan redes neuronales en el deep learning y cómo la inteligencia artificial aplica estos aprendizajes para reconocer imágenes, interpretar textos o realizar predicciones numéricas.</p>
+<p>También hemos observado que el funcionamiento de estas herramientas depende siempre de los datos con los que trabajan y que<strong> sus resultados no son perfectos: pueden acertar, equivocarse o mostrar limitaciones según el contexto.</strong></p>
+<p style="text-align: justify;">Finalmente, hemos aprendido que utilizar inteligencia artificial de forma adecuada no consiste solo en <strong>obtener respuestas, sino en saber formular preguntas claras,</strong> elegir la herramienta adecuada y analizar críticamente la información recibida.</p>
+<p style="text-align: justify;"><span style="font-weight: bolder; text-align: start;"><img src="{{context_path}}/content/resources/2026040722061301182L/240607-obsimg-web-1.jpg" width="305" height="172" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p style="text-align: center;"><span style="color: #169179;"><strong><span style="font-size: 14pt;">La inteligencia artificial no sustituye el pensamiento humano: lo complementa cuando sabemos utilizarla correctamente.</span></strong></span></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026040722061301182L","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A <img src=\"{{context_path}}/content/resources/2026040722061301182L/pngtree-robot-teacher-engaging-with-kids-in-classroom-png-image_20819003.png\" width=\"267\" height=\"267\" alt=\"\" style=\"float: left;\" />lo largo de este recorrido hemos comprobado que la i<strong>nteligencia artificial </strong>forma parte de muchas acciones cotidianas y que está presente en herramientas que utilizamos con frecuencia, muchas veces sin ser plenamente conscientes de ello.</p>\n<p style=\"text-align: justify;\">Hemos analizado cómo <strong>una máquina puede aprender a partir de ejemplos mediante el machine learning,</strong> cómo los sistemas más avanzados utilizan redes neuronales en el deep learning y cómo la inteligencia artificial aplica estos aprendizajes para reconocer imágenes, interpretar textos o realizar predicciones numéricas.</p>\n<p>También hemos observado que el funcionamiento de estas herramientas depende siempre de los datos con los que trabajan y que<strong> sus resultados no son perfectos: pueden acertar, equivocarse o mostrar limitaciones según el contexto.</strong></p>\n<p style=\"text-align: justify;\">Finalmente, hemos aprendido que utilizar inteligencia artificial de forma adecuada no consiste solo en <strong>obtener respuestas, sino en saber formular preguntas claras,</strong> elegir la herramienta adecuada y analizar críticamente la información recibida.</p>\n<p style=\"text-align: justify;\"><span style=\"font-weight: bolder; text-align: start;\"><img src=\"{{context_path}}/content/resources/2026040722061301182L/240607-obsimg-web-1.jpg\" width=\"305\" height=\"172\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></span></p>\n<p style=\"text-align: center;\"><span style=\"color: #169179;\"><strong><span style=\"font-size: 14pt;\">La inteligencia artificial no sustituye el pensamiento humano: lo complementa cuando sabemos utilizarla correctamente.</span></strong></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
